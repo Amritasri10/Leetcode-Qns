@@ -215,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0561-array-partition) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
