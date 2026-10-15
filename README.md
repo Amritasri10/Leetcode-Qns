@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0258-add-digits) |
 ## Newton's Method
 |  |
 | ------- |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
