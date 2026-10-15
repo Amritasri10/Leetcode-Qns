@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0136-single-number) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
