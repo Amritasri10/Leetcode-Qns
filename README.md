@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0217-contains-duplicate) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0217-contains-duplicate) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Greedy
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0217-contains-duplicate) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
 |  |
