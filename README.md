@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Greedy
 |  |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
