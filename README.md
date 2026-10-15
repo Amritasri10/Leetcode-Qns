@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0414-third-maximum-number) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0414-third-maximum-number) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
 |  |
