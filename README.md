@@ -232,5 +232,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0596-classes-with-at-least-5-students) |
+| [0620-not-boring-movies](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
