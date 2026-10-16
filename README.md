@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0257-binary-tree-paths) |
 ## Sliding Window
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0014-longest-common-prefix) |
+| [0257-binary-tree-paths](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
@@ -243,4 +245,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0627-swap-sex-of-employees) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
