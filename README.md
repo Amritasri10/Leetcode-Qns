@@ -118,7 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0219-contains-duplicate-ii) |
-## Trie
+## Tree
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0014-longest-common-prefix) |
