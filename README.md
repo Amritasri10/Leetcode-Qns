@@ -2,44 +2,15 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Amritasri10.Leetcode-Qns)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Amritasri10/Leetcode-Qns)
-![GitHub last commit](https://img.shields.io/github/last-commit/Amritasri10/Leetcode-Qns)
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-63-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-54-5CB85C)
 ![Medium](https://img.shields.io/badge/Medium-8-F0AD4E)
 ![Hard](https://img.shields.io/badge/Hard-1-D9534F)
 
 > Grind never stops. Solutions across Arrays, Strings, DP, Trees, SQL, Shell and more — organized by topic, built problem by problem.
-
-Auto-synced using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-
 ---
-
-## � Table of Contents
-
-1. [Arrays & Basic Iteration](#1--arrays--basic-iteration)
-2. [Strings & Character Manipulation](#2--strings--character-manipulation)
-3. [Hashing & Frequency Count](#3--hashing--frequency-count)
-4. [Two Pointers](#4--two-pointers)
-5. [Sliding Window](#5--sliding-window)
-6. [Binary Search](#6--binary-search)
-7. [Math & Number Theory](#7--math--number-theory)
-8. [Bit Manipulation](#8--bit-manipulation)
-9. [Recursion & Memoization](#9--recursion--memoization)
-10. [Dynamic Programming](#10--dynamic-programming)
-11. [Sorting & Greedy](#11--sorting--greedy)
-12. [Stack](#12--stack)
-13. [Linked List](#13--linked-list)
-14. [Trees & Graphs](#14--trees--graphs)
-15. [Advanced Data Structures](#15--advanced-data-structures)
-16. [JavaScript Async](#16--javascript-async)
-17. [Shell / Bash](#17--shell--bash)
-18. [Database / SQL](#18--database--sql)
-
----
-
 ## 1. 🟢 Arrays & Basic Iteration
-
-| Problem |
+| |
 | ------- |
 | [0001 - Two Sum](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0001-two-sum) |
 | [0026 - Remove Duplicates from Sorted Array](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -59,12 +30,9 @@ Auto-synced using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0350 - Intersection of Two Arrays II](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414 - Third Maximum Number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0414-third-maximum-number) |
 | [0561 - Array Partition](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0561-array-partition) |
-
 ---
-
 ## 2. 🟢 Strings & Character Manipulation
-
-| Problem |
+| |
 | ------- |
 | [0003 - Longest Substring Without Repeating Characters](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013 - Roman to Integer](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0013-roman-to-integer) |
@@ -79,12 +47,9 @@ Auto-synced using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0242 - Valid Anagram](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0242-valid-anagram) |
 | [0290 - Word Pattern](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0290-word-pattern) |
 | [0344 - Reverse String](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0344-reverse-string) |
-
 ---
-
 ## 3. 🟢 Hashing & Frequency Count
-
-| Problem |
+| |
 | ------- |
 | [0001 - Two Sum](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0001-two-sum) |
 | [0202 - Happy Number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0202-happy-number) |
@@ -98,12 +63,10 @@ Auto-synced using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2913 - Subarrays Distinct Element Sum of Squares I](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916 - Subarrays Distinct Element Sum of Squares II](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551 - Minimum Swaps to Sort by Digit Sum](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
-
 ---
 
 ## 4. 🟢 Two Pointers
-
-| Problem |
+| |
 | ------- |
 | [0026 - Remove Duplicates from Sorted Array](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027 - Remove Element](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0027-remove-element) |
@@ -115,20 +78,15 @@ Auto-synced using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0344 - Reverse String](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0344-reverse-string) |
 | [0349 - Intersection of Two Arrays](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0349-intersection-of-two-arrays) |
 | [0350 - Intersection of Two Arrays II](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
-
 ---
-
 ## 5. 🟡 Sliding Window
-| Problem |
+| |
 | ------- |
 | [0003 - Longest Substring Without Repeating Characters](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219 - Contains Duplicate II](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0219-contains-duplicate-ii) |
-
 ---
-
 ## 6. 🟡 Binary Search
-
-| Problem |
+| |
 | ------- |
 | [0035 - Search Insert Position](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0035-search-insert-position) |
 | [0069 - Sqrt(x)](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0069-sqrtx) |
@@ -137,12 +95,9 @@ Auto-synced using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0350 - Intersection of Two Arrays II](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367 - Valid Perfect Square](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0367-valid-perfect-square) |
 | [0704 - Binary Search](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0704-binary-search) |
-
 ---
-
 ## 7. 🟢 Math & Number Theory
-
-| Problem |
+| |
 | ------- |
 | [0009 - Palindrome Number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0009-palindrome-number) |
 | [0066 - Plus One](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0066-plus-one) |
@@ -155,47 +110,35 @@ Auto-synced using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0263 - Ugly Number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0263-ugly-number) |
 | [0367 - Valid Perfect Square](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0367-valid-perfect-square) |
 | [3727 - Maximum Alternating Sum of Squares](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3727-maximum-alternating-sum-of-squares) |
-
 ---
-
 ## 8. 🟢 Bit Manipulation
-
-| Problem |
+| |
 | ------- |
 | [0067 - Add Binary](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0067-add-binary) |
 | [0136 - Single Number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0136-single-number) |
 | [0231 - Power of Two](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0231-power-of-two) |
 | [0268 - Missing Number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0268-missing-number) |
-
 ---
-
 ## 9. 🟡 Recursion & Memoization
-
-| Problem |
+| |
 | ------- |
 | [0002 - Add Two Numbers](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0002-add-two-numbers) |
 | [0021 - Merge Two Sorted Lists](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0021-merge-two-sorted-lists) |
 | [0070 - Climbing Stairs](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0070-climbing-stairs) |
 | [0231 - Power of Two](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0231-power-of-two) |
 | [0509 - Fibonacci Number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0509-fibonacci-number) |
-
 ---
-
 ## 10. 🟡 Dynamic Programming
-
-| Problem |
+| |
 | ------- |
 | [0070 - Climbing Stairs](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0070-climbing-stairs) |
 | [0118 - Pascal's Triangle](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0118-pascals-triangle) |
 | [0119 - Pascal's Triangle II](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0119-pascals-triangle-ii) |
 | [0121 - Best Time to Buy and Sell Stock](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509 - Fibonacci Number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0509-fibonacci-number) |
-
 ---
-
 ## 11. 🟡 Sorting & Greedy
-
-| Problem |
+| |
 | ------- |
 | [0088 - Merge Sorted Array](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0088-merge-sorted-array) |
 | [0169 - Majority Element](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0169-majority-element) |
@@ -207,66 +150,45 @@ Auto-synced using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0561 - Array Partition](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0561-array-partition) |
 | [3551 - Minimum Swaps to Sort by Digit Sum](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727 - Maximum Alternating Sum of Squares](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3727-maximum-alternating-sum-of-squares) |
-
 ---
-
 ## 12. 🟢 Stack
-
-| Problem |
+| |
 | ------- |
 | [0020 - Valid Parentheses](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0020-valid-parentheses) |
-
 ---
-
 ## 13. 🟡 Linked List
-
-| Problem |
+| |
 | ------- |
 | [0002 - Add Two Numbers](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0002-add-two-numbers) |
 | [0021 - Merge Two Sorted Lists](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0021-merge-two-sorted-lists) |
 | [0083 - Remove Duplicates from Sorted List](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0083-remove-duplicates-from-sorted-list) |
-
 ---
-
 ## 14. 🟡 Trees & Graphs
-
-| Problem |
+| |
 | ------- |
 | [0257 - Binary Tree Paths](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0257-binary-tree-paths) |
-
 ---
-
 ## 15. 🔴 Advanced Data Structures
-
-| Problem |
+| |
 | ------- |
 | [2913 - Subarrays Distinct Element Sum of Squares I](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916 - Subarrays Distinct Element Sum of Squares II](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
-
 ---
-
 ## 16. 🟢 JavaScript Async
-
-| Problem |
+| |
 | ------- |
 | [2621 - Sleep](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2621-sleep) |
-
 ---
-
 ## 17. 🟢 Shell / Bash
-
-| Problem |
+| |
 | ------- |
 | [0192 - Word Frequency](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0192-word-frequency) |
 | [0193 - Valid Phone Numbers](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0193-valid-phone-numbers) |
 | [0194 - Transpose File](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0194-transpose-file) |
 | [0195 - Tenth Line](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0195-tenth-line) |
-
 ---
-
 ## 18. 🟢 Database / SQL
-
-| Problem |
+| |
 | ------- |
 | [0175 - Combine Two Tables](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0175-combine-two-tables) |
 | [0181 - Employees Earning More Than Their Managers](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0181-employees-earning-more-than-their-managers) |
