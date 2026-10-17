@@ -3,6 +3,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +38,71 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3727-maximum-alternating-sum-of-squares) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0344-reverse-string) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0561-array-partition) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0704-binary-search) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,20 +127,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0561-array-partition) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3727-maximum-alternating-sum-of-squares) |
-## Sorting
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0088-merge-sorted-array) |
-| [0169-majority-element](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0169-majority-element) |
-| [0217-contains-duplicate](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0217-contains-duplicate) |
-| [0242-valid-anagram](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0242-valid-anagram) |
-| [0268-missing-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0268-missing-number) |
-| [0349-intersection-of-two-arrays](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0349-intersection-of-two-arrays) |
-| [0350-intersection-of-two-arrays-ii](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
-| [0414-third-maximum-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0414-third-maximum-number) |
-| [0561-array-partition](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0561-array-partition) |
-| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
-| [3727-maximum-alternating-sum-of-squares](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -85,50 +143,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0083-remove-duplicates-from-sorted-list) |
-## Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0002-add-two-numbers) |
-| [0009-palindrome-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0009-palindrome-number) |
-| [0013-roman-to-integer](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0013-roman-to-integer) |
-| [0066-plus-one](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0066-plus-one) |
-| [0067-add-binary](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0067-add-binary) |
-| [0069-sqrtx](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0069-sqrtx) |
-| [0070-climbing-stairs](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0070-climbing-stairs) |
-| [0168-excel-sheet-column-title](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0168-excel-sheet-column-title) |
-| [0171-excel-sheet-column-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0171-excel-sheet-column-number) |
-| [0202-happy-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0202-happy-number) |
-| [0231-power-of-two](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0231-power-of-two) |
-| [0258-add-digits](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0258-add-digits) |
-| [0263-ugly-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0263-ugly-number) |
-| [0268-missing-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0268-missing-number) |
-| [0367-valid-perfect-square](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0367-valid-perfect-square) |
-| [0509-fibonacci-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0509-fibonacci-number) |
-## Recursion
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0002-add-two-numbers) |
-| [0021-merge-two-sorted-lists](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0021-merge-two-sorted-lists) |
-| [0231-power-of-two](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0231-power-of-two) |
-| [0509-fibonacci-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0509-fibonacci-number) |
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0013-roman-to-integer](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0013-roman-to-integer) |
-| [0014-longest-common-prefix](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0014-longest-common-prefix) |
-| [0020-valid-parentheses](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0020-valid-parentheses) |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0058-length-of-last-word](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0058-length-of-last-word) |
-| [0067-add-binary](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0067-add-binary) |
-| [0125-valid-palindrome](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0125-valid-palindrome) |
-| [0168-excel-sheet-column-title](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0168-excel-sheet-column-title) |
-| [0171-excel-sheet-column-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0171-excel-sheet-column-number) |
-| [0205-isomorphic-strings](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0205-isomorphic-strings) |
-| [0242-valid-anagram](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0242-valid-anagram) |
-| [0257-binary-tree-paths](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0257-binary-tree-paths) |
-| [0290-word-pattern](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0290-word-pattern) |
-| [0344-reverse-string](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -176,16 +190,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Binary Search
-|  |
-| ------- |
-| [0035-search-insert-position](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0035-search-insert-position) |
-| [0069-sqrtx](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0069-sqrtx) |
-| [0268-missing-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0268-missing-number) |
-| [0349-intersection-of-two-arrays](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0349-intersection-of-two-arrays) |
-| [0350-intersection-of-two-arrays-ii](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
-| [0367-valid-perfect-square](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0367-valid-perfect-square) |
-| [0704-binary-search](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -223,22 +227,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0169-majority-element) |
-## Boyer–Moore Majority Vote Algorithm
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0169-majority-element) |
-## Floyd's Cycle Finding Algorithm
-|  |
-| ------- |
-| [0202-happy-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0202-happy-number) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0258-add-digits) |
-## Counting Sort
-|  |
-| ------- |
-| [0561-array-partition](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0561-array-partition) |
 ## Database
 |  |
 | ------- |
@@ -264,4 +256,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0257-binary-tree-paths) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0169-majority-element) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0202-happy-number) |
+
 <!---LeetCode Topics End-->
