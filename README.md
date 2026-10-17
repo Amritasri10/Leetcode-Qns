@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0704-binary-search) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0561-array-partition) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
 |  |
