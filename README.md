@@ -119,7 +119,6 @@ Auto-synced using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ---
 
 ## 5. 🟡 Sliding Window
-
 | Problem |
 | ------- |
 | [0003 - Longest Substring Without Repeating Characters](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
