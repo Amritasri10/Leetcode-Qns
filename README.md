@@ -1,6 +1,8 @@
 # 🚀 LeetCode Solutions
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Amritasri10.Leetcode-Qns)
+![GitHub repo size](https://img.shields.io/github/repo-size/Amritasri10/Leetcode-Qns)
+![GitHub last commit](https://img.shields.io/github/last-commit/Amritasri10/Leetcode-Qns)
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-63-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-54-5CB85C)
 ![Medium](https://img.shields.io/badge/Medium-8-F0AD4E)
@@ -177,7 +179,6 @@
 | [0414-third-maximum-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0561-array-partition) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
-| [3727-maximum-alternating-sum-of-squares](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3727-maximum-alternating-sum-of-squares) |
 
 ## Greedy
 | |
@@ -233,15 +234,15 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0257-binary-tree-paths) |
 
-## Number Theory
-| |
-| ------- |
-| [0258-add-digits](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0258-add-digits) |
-
 ## Simulation
 | |
 | ------- |
 | [0067-add-binary](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0258-add-digits) |
+
+## Number Theory
+| |
+| ------- |
 | [0258-add-digits](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0258-add-digits) |
 
 ## String Matching
@@ -295,6 +296,11 @@
 | |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0020-valid-parentheses) |
+
+## Concurrency
+| |
+| ------- |
+| [2621-sleep](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2621-sleep) |
 
 ## Shell
 | |
