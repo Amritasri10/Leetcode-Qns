@@ -61,6 +61,7 @@
 | [0257-binary-tree-paths](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0344-reverse-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0516-longest-palindromic-subsequence) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Amritasri10/Leetcode-Qns/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 ## Hash Table
 |  |
@@ -152,6 +153,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0516-longest-palindromic-subsequence) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amritasri10/Leetcode-Qns/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Amritasri10/Leetcode-Qns/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 ## Memoization
