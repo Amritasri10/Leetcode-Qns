@@ -14,9 +14,8 @@
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
 ## Array
-| |
+|  |
 | ------- |
 | [0001-two-sum](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0014-longest-common-prefix) |
@@ -39,13 +38,13 @@
 | [0414-third-maximum-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0704-binary-search) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amritasri10/Leetcode-Qns/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3727-maximum-alternating-sum-of-squares) |
-
 ## String
-| |
+|  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0013-roman-to-integer) |
@@ -62,9 +61,8 @@
 | [0257-binary-tree-paths](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0344-reverse-string) |
-
 ## Hash Table
-| |
+|  |
 | ------- |
 | [0001-two-sum](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
@@ -82,9 +80,8 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
-
 ## Two Pointers
-| |
+|  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0027-remove-element) |
@@ -97,15 +94,13 @@
 | [0344-reverse-string](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
-
 ## Sliding Window
-| |
+|  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0219-contains-duplicate-ii) |
-
 ## Binary Search
-| |
+|  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0069-sqrtx) |
@@ -114,9 +109,8 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0704-binary-search) |
-
 ## Math
-| |
+|  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0009-palindrome-number) |
@@ -134,40 +128,38 @@
 | [0268-missing-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0509-fibonacci-number) |
-
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amritasri10/Leetcode-Qns/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bit Manipulation
-| |
+|  |
 | ------- |
 | [0067-add-binary](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0268-missing-number) |
-
 ## Recursion
-| |
+|  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0509-fibonacci-number) |
-
 ## Dynamic Programming
-| |
+|  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0509-fibonacci-number) |
-
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amritasri10/Leetcode-Qns/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
-| |
+|  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0509-fibonacci-number) |
-
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amritasri10/Leetcode-Qns/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sorting
-| |
+|  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0169-majority-element) |
@@ -179,139 +171,117 @@
 | [0414-third-maximum-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0561-array-partition) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
-
 ## Greedy
-| |
+|  |
 | ------- |
 | [0561-array-partition](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0561-array-partition) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Amritasri10/Leetcode-Qns/tree/master/3727-maximum-alternating-sum-of-squares) |
-
 ## Counting Sort
-| |
+|  |
 | ------- |
 | [0561-array-partition](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0561-array-partition) |
-
 ## Divide and Conquer
-| |
+|  |
 | ------- |
 | [0169-majority-element](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0169-majority-element) |
-
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amritasri10/Leetcode-Qns/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Counting
-| |
+|  |
 | ------- |
 | [0169-majority-element](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0169-majority-element) |
-
 ## Stack
-| |
+|  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0020-valid-parentheses) |
-
 ## Linked List
-| |
+|  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0083-remove-duplicates-from-sorted-list) |
-
 ## Tree
-| |
+|  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0014-longest-common-prefix) |
 | [0257-binary-tree-paths](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0257-binary-tree-paths) |
-
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amritasri10/Leetcode-Qns/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
-| |
+|  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0257-binary-tree-paths) |
-
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amritasri10/Leetcode-Qns/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
-| |
+|  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0257-binary-tree-paths) |
-
 ## Backtracking
-| |
+|  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0257-binary-tree-paths) |
-
 ## Simulation
-| |
+|  |
 | ------- |
 | [0067-add-binary](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0258-add-digits) |
-
 ## Number Theory
-| |
+|  |
 | ------- |
 | [0258-add-digits](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0258-add-digits) |
-
 ## String Matching
-| |
+|  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-
 ## Knuth–Morris–Pratt Algorithm
-| |
+|  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-
 ## Z Algorithm
-| |
+|  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-
 ## Boyer–Moore String-Search Algorithm
-| |
+|  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-
 ## Newton's Method
-| |
+|  |
 | ------- |
 | [0069-sqrtx](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0069-sqrtx) |
-
 ## Boyer–Moore Majority Vote Algorithm
-| |
+|  |
 | ------- |
 | [0169-majority-element](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0169-majority-element) |
-
 ## Floyd's Cycle Finding Algorithm
-| |
+|  |
 | ------- |
 | [0202-happy-number](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0202-happy-number) |
-
 ## Segment Tree
-| |
+|  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
-
 ## Binary Indexed Tree
-| |
+|  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
-
 ## Bracket Sequences
-| |
+|  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0020-valid-parentheses) |
-
 ## Concurrency
-| |
+|  |
 | ------- |
 | [2621-sleep](https://github.com/Amritasri10/Leetcode-Qns/tree/master/2621-sleep) |
-
 ## Shell
-| |
+|  |
 | ------- |
 | [0192-word-frequency](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0192-word-frequency) |
 | [0193-valid-phone-numbers](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0193-valid-phone-numbers) |
 | [0194-transpose-file](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0194-transpose-file) |
 | [0195-tenth-line](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0195-tenth-line) |
-
 ## Database
-| |
+|  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0181-employees-earning-more-than-their-managers) |
@@ -323,5 +293,20 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Amritasri10/Leetcode-Qns/tree/master/0627-swap-sex-of-employees) |
-
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amritasri10/Leetcode-Qns/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amritasri10/Leetcode-Qns/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amritasri10/Leetcode-Qns/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amritasri10/Leetcode-Qns/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
